@@ -1,8 +1,8 @@
 pygments: true
 permalink: /:year/:month/:day/:title
 title: My Project Timeline
-baseurl: /project-timeline
-linked_posts: true
+baseurl: /timeline
+linked_posts: false
 
 # Sets the default folder in Prose.io
 # Sets the default metadata in Prose.io
