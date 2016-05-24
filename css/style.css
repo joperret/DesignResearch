@@ -52,7 +52,9 @@ h1 {
   font-size: 2em;
   line-height: 1;
   letter-spacing: -0.02em;
-  margin-bottom: 0.8em; }
+  margin-bottom: 0.8em; 
+  color: pink;
+}
 
 h2 {
   text-transform: lowercase;

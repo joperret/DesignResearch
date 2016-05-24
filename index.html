@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>{{ NOVO Project Timeline }}</h1>
+<h1>{{ site.title }}</h1>
 <ol class="timeline">
 	{% for post in site.posts %}
 		<li class="tl-node">
@@ -11,6 +11,7 @@ layout: default
 				<div class="tl-content"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></div>
 			{% else %}
 				<div class="tl-content">{{ post.title }}</div>
+				<span>{{ post.tag }}</span>
 			{% endif %}
 			{{ post.content }}
 		</li>
