@@ -30,7 +30,7 @@ body {
       padding-left: 2em; } }
 
 a {
-  color: #8f7c7b;
+  color: #8f8382;
   text-decoration: none;
   font-family: 'Alegreya', serif; }
 
@@ -72,7 +72,8 @@ h3 {
   font-size: 1.8em;
   line-height: 1.1;
   margin: 0 0 0.2em;
-  text-transform: lowercase; }
+  text-transform: lowercase;
+  color: #736564;}
 
 /************End Global**************/
 /************Timeline**************/
