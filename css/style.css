@@ -21,7 +21,7 @@ header, footer, nav, section, article, hgroup, figure {
 /************Global**************/
 body {
   background: #fff;
-  color: #222222;
+  color: #736564;
   font: 120%/1.4 "HelveticaNeue", "Helvetica", "Arial", sans-serif;
   padding: 1em;
   -webkit-text-size-adjust: 100%; }
@@ -30,12 +30,12 @@ body {
       padding-left: 2em; } }
 
 a {
-  color: gray;
+  color: #8f7c7b;
   text-decoration: none; }
 
 a:hover, a:focus {
-  color: #222222;
-  text-decoration: underline; }
+  color: #9fb088;
+  text-decoration: none; }
 
 p {
   margin: 0 0 1em; }
