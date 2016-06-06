@@ -20,6 +20,7 @@ header, footer, nav, section, article, hgroup, figure {
 /************End Reset**************/
 /************Global**************/
 body {
+  text-align: center;
   background: #fff;
   color: #736564;
   font: 120%/1.4 "Open Sans", "Helvetica", "Arial", sans-serif;
