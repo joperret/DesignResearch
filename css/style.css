@@ -22,7 +22,7 @@ header, footer, nav, section, article, hgroup, figure {
 body {
   background: #fff;
   color: #736564;
-  font: 120%/1.4 "'Alegreya', serif;", "Helvetica", "Arial", sans-serif;
+  font: 120%/1.4 "Alegreya", "Helvetica", "Arial", sans-serif;
   padding: 1em;
   -webkit-text-size-adjust: 100%; }
   @media all and (min-width: 40em) {
@@ -58,6 +58,7 @@ h1 {
   letter-spacing: -0.02em;
   margin-bottom: 0.8em; 
   color: #f5c45e;
+  text-decoration: underline;
 }
 
 h2 {
