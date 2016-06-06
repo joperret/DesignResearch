@@ -22,7 +22,7 @@ header, footer, nav, section, article, hgroup, figure {
 body {
   background: #fff;
   color: #736564;
-  font: 120%/1.4 "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+  font: 120%/1.4 "'Alegreya', serif;", "Helvetica", "Arial", sans-serif;
   padding: 1em;
   -webkit-text-size-adjust: 100%; }
   @media all and (min-width: 40em) {
@@ -49,6 +49,8 @@ a img {
   outline: 0; }
 
 h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
   text-transform: uppercase;
   font-size: 2em;
   line-height: 1;
