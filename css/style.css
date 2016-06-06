@@ -39,7 +39,10 @@ a:hover, a:focus {
   text-decoration: none; }
 
 p {
-  margin: 0 0 1em; }
+  margin: 0 0 1em;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
 
 img, object, video {
   max-width: 100%;
@@ -58,7 +61,6 @@ h1 {
   letter-spacing: -0.02em;
   margin-bottom: 0.8em; 
   color: #f5c45e;
-  text-decoration: underline;
 }
 
 h2 {
