@@ -39,7 +39,8 @@ a {
   font-family: 'Alegreya', serif;
   text-transform: lowercase;
   font-weight: 400;
-  letter-spacing: none;
+  letter-spacing: 0;
+  font-size: 0.9em;
 }
 
 a:hover, a:focus {
@@ -128,7 +129,7 @@ h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 0.6em;
   color: #736564;
-  letter-spacing: none;
+  letter-spacing: 0;
   font-weight: 400;}
 
 /************End Timeline**************/
