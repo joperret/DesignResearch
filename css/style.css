@@ -101,7 +101,7 @@ h3 {
   .timeline:before {
     content: "";
     position: absolute;
-    top: 0;
+    bottom: 0;
     left: -0.7em;
     width: 18px;
     height: 15px;
