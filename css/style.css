@@ -101,13 +101,13 @@ h3 {
   .timeline:before {
     content: "";
     position: absolute;
-    bottom: 0;
-    left: -1.47em;
-    width: 40px;
-    height: 40px;
-    border-radius: 40px;
-    background: ##d8c6b0;
-    border: 3px solid ##d8c6b0; }
+    top: 0;
+    left: -0.7em;
+    width: 18px;
+    height: 15px;
+    border-radius: 0px;
+    background: #d8c6b0;
+    border: 3px solid #d8c6b0 }
 
 /* Individual Timeline Item */
 .tl-node {
@@ -117,13 +117,13 @@ h3 {
   .tl-node a {
     display: block; }
   .tl-node:before {
-    content: "";
+  content: "";
   position: absolute;
   top: 0;
   left: -0.7em;
   width: 18px;
   height: 15px;
-  border-radius: 20px;
+  border-radius: 0px;
   background: #fff;
   border: 3px solid #d8c6b0; }
   .tl-content a {
