@@ -118,14 +118,14 @@ h3 {
     display: block; }
   .tl-node:before {
     content: "";
-    position: absolute;
-    top: 0;
-    left: -0.95em;
-    width: 20px;
-    height: 20px;
-    border-radius: 20px;
-    background: #fff;
-    border: 3px solid ##d8c6b0; }
+  position: absolute;
+  top: 0;
+  left: -0.7em;
+  width: 18px;
+  height: 15px;
+  border-radius: 20px;
+  background: #fff;
+  border: 3px solid #d8c6b0; }
   .tl-content a {
     color: #222222; }
 
