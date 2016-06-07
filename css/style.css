@@ -96,7 +96,7 @@ h3 {
 /* Timeline Container */
 .timeline {
   border-left: 3px solid #d8c6b0;
-  padding-bottom: 3em;
+  padding-bottom: 1em;
   position: relative; }
   .timeline:before {
     content: "";
