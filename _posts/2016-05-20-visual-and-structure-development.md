@@ -3,7 +3,7 @@ layout: post
 title: Visual and structure development
 ---
 
-- [> Defining Product sections: Type, amount and dispenser solutions](#)
+- [> Defining Product sections: Type, amount and dispenser solutions](https://drive.google.com/open?id=1hTi4R7LEvD3lsHxZ1hya_lnIHWOj2ztJkD2tjsyP6DA)
 - [> First steps branding: Sketches, drafts and variations](https://drive.google.com/open?id=0ByB16UZAYiW8NWQya29OakhxdXc)
 - [> Further steps branding: Dynamic Branding and colours](https://drive.google.com/open?id=0ByB16UZAYiW8M2ZwR1ktVTZZUWs)
 - [> First Version of Logo](https://drive.google.com/open?id=0ByB16UZAYiW8M0NKU2ZMZ2FfLXc)
