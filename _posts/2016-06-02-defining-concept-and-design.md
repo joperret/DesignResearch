@@ -3,7 +3,7 @@ layout: post
 title: Defining concept and design 
 ---
 
-- [> The NOVO vision](#)
+- [> The NOVO philosophy](https://drive.google.com/open?id=0ByB16UZAYiW8eXhjeXBIVWFtNFk)
 - [> The concept of crossing framework conditions](https://drive.google.com/open?id=0ByB16UZAYiW8QjNJYUhXMXdhXzQ)
 - [> Concept and first model for the store](https://drive.google.com/open?id=0Byb8-5ZnfbDqWkhyR1M0bUNEVGc)
 - [> Material Samples](#)
