@@ -7,3 +7,5 @@ title: Midterm Milestone
 - [> First Collection of Samples](#)
 - [> Midterm Exhibition](#)
 - [> Concept Overview](#)
+- [> Landingpage of redesigned wesbite](#)
+- [> Facebook communication](#)
